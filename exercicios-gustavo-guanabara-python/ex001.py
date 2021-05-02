@@ -1,4 +1,6 @@
 '''
-Crie um programa que escreva "Olá, Mundo!" na tela.
+Crie um programa que escreva "Hello, World!" na tela.
+
+Create a program that says "Hello, World!" on the screen.
 '''
-print("Olá, Mundo!")
+print("Hello, World!")
