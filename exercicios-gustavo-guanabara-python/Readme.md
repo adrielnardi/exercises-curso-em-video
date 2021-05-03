@@ -15,7 +15,8 @@
 #### Ex002.py - Respondendo ao usuário
 
 > ```Português
-> 
+> Faça um programa que leia o nome de uma pessoa e mostre
+> uma mensagem de boas-vindas.
 > ```
 
 > ```Inglês
@@ -25,7 +26,7 @@
 #### Ex003.py - Somando dois números
 
 > ```Português
-> 
+> Crie um programa que leia dois números e mostre a soma entre eles.
 > ```
 
 > ```Inglês
@@ -35,7 +36,8 @@
 #### Ex004.py - Dissecando uma variável
 
 > ```Português
-> 
+> Faça um programa que leia algo pelo teclado e mostre na tela
+> o seu tipo primitivo e todas as informações possíveis sobre ele.
 > ```
 
 > ```Inglês
@@ -45,7 +47,8 @@
 #### Ex005.py - Antecessor e Sucessor
 
 > ```Português
-> 
+> Faça um programa que leia um número inteiro e mostre na tela
+> o seu sucessor e seu antecessor.
 > ```
 
 > ```Inglês
