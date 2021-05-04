@@ -1,6 +1,9 @@
 '''
 Faça um programa que leia algo pelo teclado e mostre na tela
 o seu tipo primitivo e todas as informações possíveis sobre ele.
+
+Make a program that reads something on the keyboard and shows on the screen
+its primitive type and all possible information about it.
 '''
 s = input("Digite algo: ")
 print(f"Tipo Primitivo: {type(s)}")
