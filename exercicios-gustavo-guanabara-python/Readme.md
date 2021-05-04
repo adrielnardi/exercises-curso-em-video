@@ -20,7 +20,8 @@
 > ```
 
 > ```Inglês
-> 
+> Make a program that reads a person's name and shows
+> a welcome message.
 > ```
 
 #### Ex003.py - Somando dois números
@@ -30,7 +31,7 @@
 > ```
 
 > ```Inglês
-> 
+> Create a program that reads two numbers and shows the sum between them.
 > ```
 
 #### Ex004.py - Dissecando uma variável
@@ -41,7 +42,8 @@
 > ```
 
 > ```Inglês
-> 
+> Make a program that reads something on the keyboard and shows on the screen
+> its primitive type and all possible information about it.
 > ```
 
 #### Ex005.py - Antecessor e Sucessor
@@ -52,40 +54,59 @@
 > ```
 
 > ```Inglês
-> 
+> Make a program that reads a whole number and shows it on the screen
+> his successor and his predecessor.
 > ```
 
 #### Ex006.py - Dobro, Triplo e Raiz Quadrada
 
 > ```Português
-> 
+> Crie um algoritmo que leia um número e mostre o seu dobro,
+> triplo e raiz quadrada.
 > ```
 
 > ```Inglês
-> 
+> Create an algorithm that reads a number and shows its double,
+> triple and square root.
 > ```
 
 #### Ex007.py - Média Aritmética
 
 > ```Português
-> 
+> Desenvolva um programa que leia as duas notas de um aluno,
+> calcule e mostre a sua média.
 > ```
 
 > ```Inglês
-> 
+> Develop a program that reads a student’s two grades,
+> calculate and show your average.
 > ```
 
 #### Ex008.py - Conversor de medidas
 
 > ```Português
-> 
+> Escreva um programa que leia um valor em metros e o exiba
+> convertido em centímetros e milímetros.
 > ```
 
 > ```Inglês
-> 
+> Write a program that reads a value in meters and displays it
+> converted to centimeters and millimeters.
 > ```
 
-#### Ex009.py
+#### Ex009.py - Tabuada
+
+> ```Português
+> Faça um programa que leia um número inteiro qualquer e mostre
+> na tela a sua tabuada.
+> ```
+
+> ```Inglês
+> Make a program that reads any integer and shows
+> your multiplication table on the screen.
+> ```
+
+#### Ex010.py - Conversor de moedas
 
 > ```Português
 > 
@@ -95,7 +116,7 @@
 > 
 > ```
 
-#### Ex010.py
+#### Ex011.py - Pintando parede		
 
 > ```Português
 > 
@@ -105,7 +126,7 @@
 > 
 > ```
 
-#### Ex011.py
+#### Ex0012.py - Calculando descontos	
 
 > ```Português
 > 
@@ -115,7 +136,7 @@
 > 
 > ```
 
-#### Ex0012.py
+#### Ex013.py - Reajuste salarial
 
 > ```Português
 > 
@@ -125,17 +146,7 @@
 > 
 > ```
 
-#### Ex013.py
-
-> ```Português
-> 
-> ```
-
-> ```Inglês
-> 
-> ```
-
-#### Ex014.py
+#### Ex014.py - Conversor de temperaturas
 
 > ```Português
 > 
