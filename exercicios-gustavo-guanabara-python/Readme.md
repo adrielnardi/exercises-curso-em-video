@@ -15,13 +15,11 @@
 #### Ex002.py - Respondendo ao usuário
 
 > ```Português
-> Faça um programa que leia o nome de uma pessoa e mostre
-> uma mensagem de boas-vindas.
+> Faça um programa que leia o nome de uma pessoa e mostre uma mensagem de boas-vindas.
 > ```
 
 > ```Inglês
-> Make a program that reads a person's name and shows
-> a welcome message.
+> Make a program that reads a person's name and shows a welcome message.
 > ```
 
 #### Ex003.py - Somando dois números
@@ -37,83 +35,71 @@
 #### Ex004.py - Dissecando uma variável
 
 > ```Português
-> Faça um programa que leia algo pelo teclado e mostre na tela
-> o seu tipo primitivo e todas as informações possíveis sobre ele.
+> Faça um programa que leia algo pelo teclado e mostre na tela o seu tipo primitivo e todas as informações possíveis sobre ele.
 > ```
 
 > ```Inglês
-> Make a program that reads something on the keyboard and shows on the screen
-> its primitive type and all possible information about it.
+> Make a program that reads something on the keyboard and shows on the screen its primitive type and all possible information about it.
 > ```
 
 #### Ex005.py - Antecessor e Sucessor
 
 > ```Português
-> Faça um programa que leia um número inteiro e mostre na tela
-> o seu sucessor e seu antecessor.
+> Faça um programa que leia um número inteiro e mostre na tela o seu sucessor e seu antecessor.
 > ```
 
 > ```Inglês
-> Make a program that reads a whole number and shows it on the screen
-> his successor and his predecessor.
+> Make a program that reads a whole number and shows it on the screen his successor and his predecessor.
 > ```
 
 #### Ex006.py - Dobro, Triplo e Raiz Quadrada
 
 > ```Português
-> Crie um algoritmo que leia um número e mostre o seu dobro,
-> triplo e raiz quadrada.
+> Crie um algoritmo que leia um número e mostre o seu dobro, triplo e raiz quadrada.
 > ```
 
 > ```Inglês
-> Create an algorithm that reads a number and shows its double,
-> triple and square root.
+> Create an algorithm that reads a number and shows its double, triple and square root.
 > ```
 
 #### Ex007.py - Média Aritmética
 
 > ```Português
-> Desenvolva um programa que leia as duas notas de um aluno,
-> calcule e mostre a sua média.
+> Desenvolva um programa que leia as duas notas de um aluno, calcule e mostre a sua média.
 > ```
 
 > ```Inglês
-> Develop a program that reads a student’s two grades,
-> calculate and show your average.
+> Develop a program that reads a student’s two grades, calculate and show your average.
 > ```
 
 #### Ex008.py - Conversor de medidas
 
 > ```Português
-> Escreva um programa que leia um valor em metros e o exiba
-> convertido em centímetros e milímetros.
+> Escreva um programa que leia um valor em metros e o exiba convertido em centímetros e milímetros.
 > ```
 
 > ```Inglês
-> Write a program that reads a value in meters and displays it
-> converted to centimeters and millimeters.
+> Write a program that reads a value in meters and displays it converted to centimeters and millimeters.
 > ```
 
 #### Ex009.py - Tabuada
 
 > ```Português
-> Faça um programa que leia um número inteiro qualquer e mostre
-> na tela a sua tabuada.
+> Faça um programa que leia um número inteiro qualquer e mostre na tela a sua tabuada.
 > ```
 
 > ```Inglês
-> Make a program that reads any integer and shows
-> your multiplication table on the screen.
+> Make a program that reads any integer and shows your multiplication table on the screen.
 > ```
 
 #### Ex010.py - Conversor de moedas
 
 > ```Português
-> 
+> Crie um programa que leia quanto dinheiro uma pessoa tem na carteira e mostre quantos Dólares ela pode comprar.
 > ```
 
 > ```Inglês
-> 
+> Create a program that reads how much money a person has in her wallet and show how many dollars she can buy.
 > ```
 
 #### Ex011.py - Pintando parede		
@@ -156,7 +142,7 @@
 > 
 > ```
 
-#### Ex015.py
+#### Ex015.py - Aluguel de carros
 
 > ```Português
 > 
@@ -166,7 +152,7 @@
 > 
 > ```
 
-#### Ex016.py
+#### Ex016.py - Quebrando um número
 
 > ```Português
 > 
@@ -176,7 +162,7 @@
 > 
 > ```
 
-#### Ex017.py
+#### Ex017.py - Catetos e Hiponenusas
 
 > ```Português
 > 
@@ -186,7 +172,7 @@
 > 
 > ```
 
-#### Ex018.py
+#### Ex018.py - Seno, Cosseno e Tangente
 
 > ```Português
 > 
@@ -196,7 +182,7 @@
 > 
 > ```
 
-#### Ex019.py
+#### Ex019.py - Sorteando um item da lista
 
 > ```Português
 > 
@@ -206,7 +192,7 @@
 > 
 > ```
 
-#### Ex020.py
+#### Ex020.py - Sorteando uma ordem da lista
 
 > ```Português
 > 
@@ -216,7 +202,7 @@
 > 
 > ```
 
-#### Ex021.py
+#### Ex021.py - Tocando um mp3
 
 > ```Português
 > 
@@ -226,7 +212,7 @@
 > 
 > ```
 
-#### Ex022.py
+#### Ex022.py - Analisador de textos
 
 > ```Português
 > 
@@ -236,7 +222,7 @@
 > 
 > ```
 
-#### Ex023.py
+#### Ex023.py - Separando dígitos de um número
 
 > ```Português
 > 
@@ -246,7 +232,7 @@
 > 
 > ```
 
-#### Ex024.py
+#### Ex024.py - Verificando as primeiras letras de um texto
 
 > ```Português
 > 
@@ -256,7 +242,7 @@
 > 
 > ```
 
-#### Ex025.py
+#### Ex025.py - Procurando uma string dentro de outra
 
 > ```Português
 > 
@@ -266,7 +252,7 @@
 > 
 > ```
 
-#### Ex026.py
+#### Ex026.py - Primeira e última ocorrencia de uma string
 
 > ```Português
 > 
@@ -276,7 +262,7 @@
 > 
 > ```
 
-#### Ex027.py
+#### Ex027.py - Primeiro e último nome de uma pessoa
 
 > ```Português
 > 
@@ -286,7 +272,7 @@
 > 
 > ```
 
-#### Ex028.py
+#### Ex028.py - Jogo da advinhação v1.0
 
 > ```Português
 > 
@@ -296,7 +282,7 @@
 > 
 > ```
 
-#### Ex029.py
+#### Ex029.py - Radar eletrônico
 
 > ```Português
 > 
@@ -306,7 +292,7 @@
 > 
 > ```
 
-#### Ex030.py
+#### Ex030.py - Par ou Ímpar
 
 > ```Português
 > 
@@ -316,7 +302,7 @@
 > 
 > ```
 
-#### Ex031.py
+#### Ex031.py - Custo da viagem
 
 > ```Português
 > 
@@ -326,7 +312,7 @@
 > 
 > ```
 
-#### Ex032.py
+#### Ex032.py - Ano Bissexto
 
 > ```Português
 > 
@@ -336,7 +322,7 @@
 > 
 > ```
 
-#### Ex033.py
+#### Ex033.py - Maior e menor valores
 
 > ```Português
 > 
@@ -346,7 +332,7 @@
 > 
 > ```
 
-#### Ex034.py
+#### Ex034.py - Aumentos múltiplos
 
 > ```Português
 > 
@@ -356,7 +342,7 @@
 > 
 > ```
 
-#### Ex035.py
+#### Ex035.py - Analisando Triângulo v1.0
 
 > ```Português
 > 
@@ -366,7 +352,7 @@
 > 
 > ```
 
-#### Ex036.py
+#### Ex036.py - Aprovando Empréstimo
 
 > ```Português
 > 
@@ -376,7 +362,7 @@
 > 
 > ```
 
-#### Ex037.py
+#### Ex037.py - Conversor de bases numéricas
 
 > ```Português
 > 
@@ -386,7 +372,7 @@
 > 
 > ```
 
-#### Ex038.py
+#### Ex038.py - Comparando números
 
 > ```Português
 > 
@@ -396,7 +382,7 @@
 > 
 > ```
 
-#### Ex039.py
+#### Ex039.py - Alistamento Militar
 
 > ```Português
 > 
@@ -406,7 +392,7 @@
 > 
 > ```
 
-#### Ex040.py
+#### Ex040.py - Aquele clássico da Média
 
 > ```Português
 > 
@@ -416,7 +402,7 @@
 > 
 > ```
 
-#### Ex041.py
+#### Ex041.py - Classificando Atletas
 
 > ```Português
 > 
@@ -426,7 +412,7 @@
 > 
 > ```
 
-#### Ex042.py
+#### Ex042.py -  Analisando Triângulo v2.0
 
 > ```Português
 > 
@@ -436,7 +422,7 @@
 > 
 > ```
 
-#### Ex043.py
+#### Ex043.py - Índice de massa corporal
 
 > ```Português
 > 
@@ -446,7 +432,7 @@
 > 
 > ```
 
-#### Ex044.py
+#### Ex044.py - Gerenciador de pagamentos
 
 > ```Português
 > 
@@ -456,7 +442,7 @@
 > 
 > ```
 
-#### Ex045.py
+#### Ex045.py - GAME: Pedra, Papel e Tesoura
 
 > ```Português
 > 
@@ -466,7 +452,7 @@
 > 
 > ```
 
-#### Ex046.py
+#### Ex046.py - Contagem Regressiva
 
 > ```Português
 > 
@@ -476,7 +462,7 @@
 > 
 > ```
 
-#### Ex047.py
+#### Ex047.py - Contagem de pares
 
 > ```Português
 > 
@@ -486,7 +472,7 @@
 > 
 > ```
 
-#### Ex048.py
+#### Ex048.py - Soma ímpares múltiplos de três
 
 > ```Português
 > 
@@ -496,7 +482,7 @@
 > 
 > ```
 
-#### Ex049.py
+#### Ex049.py - Tabuada v2.0
 
 > ```Português
 > 
@@ -506,7 +492,7 @@
 > 
 > ```
 
-#### Ex050.py
+#### Ex050.py - Soma dos pares
 
 > ```Português
 > 
@@ -516,7 +502,7 @@
 > 
 > ```
 
-#### Ex051.py
+#### Ex051.py - Progressão Aritmética
 
 > ```Português
 > 
@@ -526,7 +512,7 @@
 > 
 > ```
 
-#### Ex052.py
+#### Ex052.py - Números Primos
 
 > ```Português
 > 
@@ -536,7 +522,7 @@
 > 
 > ```
 
-#### Ex053.py
+#### Ex053.py - Detector de Palíndromo
 
 > ```Português
 > 
@@ -546,7 +532,7 @@
 > 
 > ```
 
-#### Ex054.py
+#### Ex054.py - Grupo da Maioridade
 
 > ```Português
 > 
@@ -556,7 +542,7 @@
 > 
 > ```
 
-#### Ex055.py
+#### Ex055.py - Maior e menor da sequência
 
 > ```Português
 > 
@@ -566,7 +552,7 @@
 > 
 > ```
 
-#### Ex056.py
+#### Ex056.py - Analisador completo
 
 > ```Português
 > 
@@ -576,7 +562,7 @@
 > 
 > ```
 
-#### Ex057.py
+#### Ex057.py - Validação de dados
 
 > ```Português
 > 
@@ -586,7 +572,7 @@
 > 
 > ```
 
-#### Ex058.py
+#### Ex058.py - Jogo da Advinhação v2.0
 
 > ```Português
 > 
@@ -596,7 +582,7 @@
 > 
 > ```
 
-#### Ex059.py
+#### Ex059.py - Criando um Menu de Opções
 
 > ```Português
 > 
@@ -606,7 +592,7 @@
 > 
 > ```
 
-#### Ex060.py
+#### Ex060.py - Cálculo do Fatorial
 
 > ```Português
 > 
@@ -616,7 +602,7 @@
 > 
 > ```
 
-#### Ex061.py
+#### Ex061.py - Progressão Aritmética v2.0
 
 > ```Português
 > 
@@ -626,7 +612,7 @@
 > 
 > ```
 
-#### Ex062.py
+#### Ex062.py - Super Progressão Aritmética v3.0
 
 > ```Português
 > 
@@ -636,7 +622,7 @@
 > 
 > ```
 
-#### Ex063.py
+#### Ex063.py - Sequência de Fibonacci v1.0
 
 > ```Português
 > 
@@ -646,7 +632,7 @@
 > 
 > ```
 
-#### Ex064.py
+#### Ex064.py - Tratando vários valores v1.0
 
 > ```Português
 > 
@@ -656,7 +642,7 @@
 > 
 > ```
 
-#### Ex065.py
+#### Ex065.py - Maior e menor valores
 
 > ```Português
 > 
@@ -666,7 +652,7 @@
 > 
 > ```
 
-#### Ex066.py
+#### Ex066.py - Vários números com flag
 
 > ```Português
 > 
@@ -676,7 +662,7 @@
 > 
 > ```
 
-#### Ex067.py
+#### Ex067.py - Tabuada v3.0
 
 > ```Português
 > 
@@ -686,7 +672,7 @@
 > 
 > ```
 
-#### Ex068.py
+#### Ex068.py - Jogo do Par ou Ímpar
 
 > ```Português
 > 
@@ -696,7 +682,7 @@
 > 
 > ```
 
-#### Ex069.py
+#### Ex069.py - Análise de dados do grupo
 
 > ```Português
 > 
@@ -706,7 +692,7 @@
 > 
 > ```
 
-#### Ex070.py
+#### Ex070.py - Estatísticas em produtos
 
 > ```Português
 > 
@@ -716,7 +702,7 @@
 > 
 > ```
 
-#### Ex071.py
+#### Ex071.py - Simulador de Caixa Eletrônico
 
 > ```Português
 > 
@@ -726,7 +712,7 @@
 > 
 > ```
 
-#### Ex072.py
+#### Ex072.py - Número por extenso
 
 > ```Português
 > 
@@ -736,7 +722,7 @@
 > 
 > ```
 
-#### Ex073.py
+#### Ex073.py - Tuplas com times de futebol
 
 > ```Português
 > 
@@ -746,7 +732,7 @@
 > 
 > ```
 
-#### Ex074.py
+#### Ex074.py - Maior e Menor valores em Tupla
 
 > ```Português
 > 
@@ -756,7 +742,7 @@
 > 
 > ```
 
-#### Ex075.py
+#### Ex075.py - Análise de dados em uma Tupla
 
 > ```Português
 > 
@@ -766,7 +752,7 @@
 > 
 > ```
 
-#### Ex076.py
+#### Ex076.py - Lista de preços com Tupla
 
 > ```Português
 > 
@@ -776,7 +762,7 @@
 > 
 > ```
 
-#### Ex077.py
+#### Ex077.py - Contando vogais em Tupla
 
 > ```Português
 > 
@@ -786,7 +772,7 @@
 > 
 > ```
 
-#### Ex078.py
+#### Ex078.py - Maior e Menor valores na Lista
 
 > ```Português
 > 
@@ -796,7 +782,7 @@
 > 
 > ```
 
-#### Ex079.py
+#### Ex079.py - Valores únicos em uma Lista
 
 > ```Português
 > 
@@ -806,7 +792,7 @@
 > 
 > ```
 
-#### Ex080.py
+#### Ex080.py - LIsta ordenada sem repetições
 
 > ```Português
 > 
@@ -816,7 +802,7 @@
 > 
 > ```
 
-#### Ex081.py
+#### Ex081.py - Extraindo dados de uma Lista
 
 > ```Português
 > 
@@ -826,7 +812,7 @@
 > 
 > ```
 
-#### Ex082.py
+#### Ex082.py - Dividindo valores em várias Listas
 
 > ```Português
 > 
@@ -836,7 +822,7 @@
 > 
 > ```
 
-#### Ex083.py
+#### Ex083.py - Validando expressões matemáticas
 
 > ```Português
 > 
@@ -846,7 +832,7 @@
 > 
 > ```
 
-#### Ex084.py
+#### Ex084.py - Lista composta e análise de dados
 
 > ```Português
 > 
@@ -856,7 +842,7 @@
 > 
 > ```
 
-#### Ex085.py
+#### Ex085.py - Listas com pares e ímpares
 
 > ```Português
 > 
@@ -866,7 +852,7 @@
 > 
 > ```
 
-#### Ex086.py
+#### Ex086.py - Matriz em python
 
 > ```Português
 > 
@@ -876,7 +862,7 @@
 > 
 > ```
 
-#### Ex087.py
+#### Ex087.py - Mais sobre matriz em python
 
 > ```Português
 > 
@@ -886,7 +872,7 @@
 > 
 > ```
 
-#### Ex088.py
+#### Ex088.py - Palpites para a Mega Sena
 
 > ```Português
 > 
@@ -896,7 +882,7 @@
 > 
 > ```
 
-#### Ex089.py
+#### Ex089.py - Boletim com listas compostas
 
 > ```Português
 > 
@@ -906,7 +892,7 @@
 > 
 > ```
 
-#### Ex090.py
+#### Ex090.py - Dicionário em Python
 
 > ```Português
 > 
@@ -916,7 +902,7 @@
 > 
 > ```
 
-#### Ex091.py
+#### Ex091.py - Jogo de dados em Python
 
 > ```Português
 > 
@@ -926,7 +912,7 @@
 > 
 > ```
 
-#### Ex092.py
+#### Ex092.py - Cadastro de Trabalhador em Python
 
 > ```Português
 > 
@@ -936,7 +922,7 @@
 > 
 > ```
 
-#### Ex093.py
+#### Ex093.py - Cadastro de jogador de futebol
 
 > ```Português
 > 
@@ -946,7 +932,7 @@
 > 
 > ```
 
-#### Ex094.py
+#### Ex094.py - Unindo dicionários a listas
 
 > ```Português
 > 
@@ -956,7 +942,7 @@
 > 
 > ```
 
-#### Ex095.py
+#### Ex095.py - Aprimorando os dicionários
 
 > ```Português
 > 
@@ -966,7 +952,7 @@
 > 
 > ```
 
-#### Ex096.py
+#### Ex096.py - Função que calcula a área
 
 > ```Português
 > 
@@ -976,7 +962,7 @@
 > 
 > ```
 
-#### Ex097.py
+#### Ex097.py - Um print especial
 
 > ```Português
 > 
@@ -986,7 +972,7 @@
 > 
 > ```
 
-#### Ex098.py
+#### Ex098.py - Função de contador
 
 > ```Português
 > 
@@ -996,7 +982,7 @@
 > 
 > ```
 
-#### Ex099.py
+#### Ex099.py - Função que descobre o maior
 
 > ```Português
 > 
@@ -1006,7 +992,7 @@
 > 
 > ```
 
-#### Ex100.py
+#### Ex100.py - Funções para sortear e somar
 
 > ```Português
 > 
@@ -1016,7 +1002,7 @@
 > 
 > ```
 
-#### Ex101.py
+#### Ex101.py - Funções para votação
 
 > ```Português
 > 
@@ -1026,7 +1012,7 @@
 > 
 > ```
 
-#### Ex102.py
+#### Ex102.py - Função para fatorial
 
 > ```Português
 > 
@@ -1036,7 +1022,7 @@
 > 
 > ```
 
-#### Ex103.py
+#### Ex103.py - Ficha  do jogador
 
 > ```Português
 > 
@@ -1046,7 +1032,7 @@
 > 
 > ```
 
-#### Ex104.py
+#### Ex104.py - Validando entrada de dados em Python
 
 > ```Português
 > 
@@ -1056,7 +1042,7 @@
 > 
 > ```
 
-#### Ex105.py
+#### Ex105.py - Analisando e gerando Dicionários
 
 > ```Português
 > 
@@ -1066,7 +1052,7 @@
 > 
 > ```
 
-#### Ex106.py
+#### Ex106.py - Sistema interativo de ajuda em Python
 
 > ```Português
 > 
@@ -1076,7 +1062,7 @@
 > 
 > ```
 
-#### Ex107.py
+#### Ex107.py - Exercitando módulos em Python
 
 > ```Português
 > 
@@ -1086,7 +1072,7 @@
 > 
 > ```
 
-#### Ex108.py
+#### Ex108.py - Formatando Moedas em Python v1.0
 
 > ```Português
 > 
@@ -1096,7 +1082,7 @@
 > 
 > ```
 
-#### Ex0109.py
+#### Ex0109.py - Formatando Moedas em Python v2.0
 
 > ```Português
 > 
@@ -1106,7 +1092,7 @@
 > 
 > ```
 
-#### Ex110.py
+#### Ex110.py - Reduzindo ainda mais seu programa
 
 > ```Português
 > 
@@ -1116,7 +1102,7 @@
 > 
 > ```
 
-#### Ex111.py
+#### Ex111.py - Transformando módulos em pacotes
 
 > ```Português
 > 
@@ -1126,7 +1112,7 @@
 > 
 > ```
 
-#### Ex112.py
+#### Ex112.py - Entrada de dados monetários
 
 > ```Português
 > 
@@ -1136,7 +1122,7 @@
 > 
 > ```
 
-#### Ex113.py
+#### Ex113.py - Funções aprofundadas em Python
 
 > ```Português
 > 
@@ -1146,7 +1132,7 @@
 > 
 > ```
 
-#### Ex114.py
+#### Ex114.py - Site está acessível
 
 > ```Português
 > 
@@ -1156,7 +1142,7 @@
 > 
 > ```
 
-#### Ex115.py
+#### Ex115.py - Criando um menu com arquivo em Python
 
 > ```Português
 > 
