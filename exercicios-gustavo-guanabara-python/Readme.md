@@ -105,71 +105,71 @@
 #### Ex011.py - Pintando parede		
 
 > ```Português
-> 
+> Faça um programa que leia a largura e a altura de uma parede em metros, calcule a sua área e a quantidade de tinta necessária para pintá-la. Sabendo que cada litro de tinta pinta uma área de 2m².
 > ```
 
 > ```Inglês
-> 
+> Make a program that reads the width and height of a wall in meters, calculate your area and the amount of ink needed to paint it. Knowing that each liter of paint paints an area of 2m².
 > ```
 
 #### Ex0012.py - Calculando descontos	
 
 > ```Português
-> 
+> Faça um algoritmo que leia o preço de um produto e mostre seu novo preço, com 5% de desconto.
 > ```
 
 > ```Inglês
-> 
+> Make an algorithm that reads the price of a product and shows its new price, with 5% discount.
 > ```
 
 #### Ex013.py - Reajuste salarial
 
 > ```Português
-> 
+> Faça um algoritmo que leia o salário de um funcionário e mostre seu novo salário, com 15% de aumento.
 > ```
 
 > ```Inglês
-> 
+> Make an algorithm that reads an employee's salary and shows his new salary, with a 15% increase.
 > ```
 
 #### Ex014.py - Conversor de temperaturas
 
 > ```Português
-> 
+> Escreva um programa que converta uma temperatura digitada em °C e converta para °F.
 > ```
 
 > ```Inglês
-> 
+> Write a program that converts a typed temperature in ° C and convert to ° F.
 > ```
 
 #### Ex015.py - Aluguel de carros
 
 > ```Português
-> 
+> Escreva um programa que pergunte a quantidade de Km percorridos por um carro alugado e a quantidade de dias pelos quais ele foi alugado. Calcule o preço a pagar, sabendo que o carro custa R$60 por dia e R$0.15 por km rodado
 > ```
 
 > ```Inglês
-> 
+> Write a program that asks the number of kilometers traveled for a rental car and the number of days it has been gone rented. Calculate the price to pay, knowing that the car costs R $ 60 per day and R $ 0.15 per km traveled
 > ```
 
 #### Ex016.py - Quebrando um número
 
 > ```Português
-> 
+> Crie um programa que leia um número Real qualquer pelo teclado e mostre na tela a sua porção Inteira. Ex: Digite um número 6.127. O número 6.127 tem a parte inteira 6.
 > ```
 
 > ```Inglês
-> 
+> Create a program that reads any Real number using the keyboard and show your entire portion on the screen. Ex: Enter a number 6.127. The number 6.127 has the entire part 6.
 > ```
 
 #### Ex017.py - Catetos e Hiponenusas
 
 > ```Português
-> 
+> Faça um programa que leia o comprimento do cateto oposto e do cateto adjacente de um triângulo retângulo, calcule e mostre o comprimento da hipotenusa.
 > ```
 
 > ```Inglês
-> 
+> Make a program that reads the length of the opposite leg and the adjacent side of a right triangle, calculate and show the hypotenuse length.
 > ```
 
 #### Ex018.py - Seno, Cosseno e Tangente
