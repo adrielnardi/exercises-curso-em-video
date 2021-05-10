@@ -175,31 +175,31 @@
 #### Ex018.py - Seno, Cosseno e Tangente
 
 > ```Português
-> 
+> Faça um programa que leia um ângulo qualquer e mostre na tela o valor do seno, cosseno e tangente desse ângulo.
 > ```
 
 > ```Inglês
-> 
+> Make a program that reads any angle and shows the value on the screen of the sine, cosine and tangent of that angle.
 > ```
 
 #### Ex019.py - Sorteando um item da lista
 
 > ```Português
-> 
+> Um professor quer sortear um dos seus quatros alunos para apagar o quadro. Faça um programa que ajude ele, lendo o nome deles e escrevendo o nome do escolhido.
 > ```
 
 > ```Inglês
-> 
+> A teacher wants to raffle one of his four students to erase the board. Make a program that helps him, reading their names and writing the name of the chosen one.
 > ```
 
 #### Ex020.py - Sorteando uma ordem da lista
 
 > ```Português
-> 
+> O mesmo professor do desafio anterior quer sortear a ordem de apresentação de trabalhos dos alunos. Faça um programa que leia o nome dos quatro alunos e mostre a ordem sorteada.
 > ```
 
 > ```Inglês
-> 
+> The same teacher from the previous challenge wants to draw the order of presentation of student work. Make a program that reads the name of the four students and show the order drawn.
 > ```
 
 #### Ex021.py - Tocando um mp3
