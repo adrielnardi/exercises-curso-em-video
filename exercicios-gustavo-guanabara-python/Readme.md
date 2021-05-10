@@ -205,51 +205,59 @@
 #### Ex021.py - Tocando um mp3
 
 > ```Português
-> 
+> Faça um programa em Python que abra e reproduza o áudio de um arquivo MP3.
 > ```
 
 > ```Inglês
-> 
+> Make a Python program that opens and plays the audio an MP3 file.
 > ```
 
 #### Ex022.py - Analisador de textos
 
 > ```Português
-> 
+> Crie um programa que leia o nome completo de uma pessoa e mostre:
+> 1 - O nome com todas as letras maiúscula e minúsculas.
+> 2 - Quantas letras ao total (sem considerar espaços).
+> 3 - Quantas letras tem o primeiro nome.
 > ```
 
 > ```Inglês
-> 
+> Create a program that reads a person's full name and shows:
+> 1 - The name with all uppercase and lowercase letters.
+> 2 - How many letters in total (without considering spaces).
+> 3 - How many letters has the first name.
 > ```
 
 #### Ex023.py - Separando dígitos de um número
 
 > ```Português
-> 
+> Faça um programa que leia um número de 0 a 9999 e mostre na tela cada um dos dígitos separados.
+> Ex:Digite um número:1834-unidade:4,dezena:3,centena:8,milhar:1
 > ```
 
 > ```Inglês
-> 
+> Make a program that reads a number from 0 to 9999 and shows it on the screen each of the separate digits.
+> Ex: Enter a number: 1834-unit: 4, ten: 3, hundred: 8, thousands: 1
 > ```
 
 #### Ex024.py - Verificando as primeiras letras de um texto
 
 > ```Português
-> 
+> Crie um programa que leia o nome de uma cidade e diga se ela começa ou não com o nome "SANTO".
 > ```
 
 > ```Inglês
-> 
+> Create a program that reads the name of a city and tells you if it begins or not with the name "SANTO".
 > ```
 
 #### Ex025.py - Procurando uma string dentro de outra
 
 > ```Português
-> 
+> Crie um programa que leia o nome de uma pessoa e diga se ela tem "SILVA" no nome.
 > ```
 
 > ```Inglês
-> 
+> Create a program that reads a person's name and tells them has "SILVA" in its name.
 > ```
 
 #### Ex026.py - Primeira e última ocorrencia de uma string
