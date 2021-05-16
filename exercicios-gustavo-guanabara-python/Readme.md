@@ -263,41 +263,47 @@
 #### Ex026.py - Primeira e última ocorrencia de uma string
 
 > ```Português
-> 
+> Faça um programa que leia uma frase pelo teclado e mostre:
+> - Quantas vezes aparece a letra 'A'
+> - Em que posição ela aparece a primeira vez
+> - Em que posição ela aparece a última vez
 > ```
 
 > ```Inglês
-> 
+> Make a program that reads a sentence on the keyboard and shows:
+> - How many times does the letter 'A' appear
+> - In what position does she appear the first time
+> - In what position does she appear last
 > ```
 
 #### Ex027.py - Primeiro e último nome de uma pessoa
 
 > ```Português
-> 
+> Faça um programa que leia o nome completo de uma pessoa, mostrando em seguida o primeiro e o último nome separadamente.
 > ```
 
 > ```Inglês
-> 
+> Make a program that reads a person's full name, then showing the first and last name separately.
 > ```
 
 #### Ex028.py - Jogo da advinhação v1.0
 
 > ```Português
-> 
+> Escreva um programa que faça o computador "pensar" em um número inteiro entre 0 e 5 e peça para o usuário tentar descobrir qual foi o número escolhido pelo computador. O programa deverá escrever na tela se o usuário venceu ou perdeu.
 > ```
 
 > ```Inglês
-> 
+> Write a program that makes the computer "think" of a integer between 0 and 5 and ask the user to try to find out what was the number chosen by the computer. The program should write on the screen whether the user won or lost.
 > ```
 
 #### Ex029.py - Radar eletrônico
 
 > ```Português
-> 
+> Escreva um programa que leia a velocidade de um carro. Se ele ultrapassar 80 km/h, mostre uma mensagem dizendo que ele foi multado. A multa vai custar R$7.00 por cada Km acima do limite.
 > ```
 
 > ```Inglês
-> 
+> Write a program that reads the speed of a car. If he exceed 80 km/h, show a message saying that it was fined. The fine will cost R$7.00 for each Km above the limit.
 > ```
 
 #### Ex030.py - Par ou Ímpar
