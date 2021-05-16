@@ -309,61 +309,61 @@
 #### Ex030.py - Par ou Ímpar
 
 > ```Português
-> 
+> Crie um programa que leia um número inteiro e mostre na tela se ele é PAR ou IMPAR.
 > ```
 
 > ```Inglês
-> 
+> Create a program that reads an integer and shows it on the screen whether it is even or odd.
 > ```
 
 #### Ex031.py - Custo da viagem
 
 > ```Português
-> 
+> Desenvolva um programa que pergunte a distância de uma viagem em Km. Calcule o preço da passagem, cobrando R$0.50 por Km para viagens de até 200Km e R$0.45 para viagens mais longas
 > ```
 
 > ```Inglês
-> 
+> Develop a program that asks the distance of a trip in Km. Calculate the ticket price, charging R $ 0.50 per Km for trips up to 200Km and R $ 0.45 for longer trips
 > ```
 
 #### Ex032.py - Ano Bissexto
 
 > ```Português
-> 
+> Faça um programa que leia um ano qualquer e mostre se ele é BISSEXTO.
 > ```
 
 > ```Inglês
-> 
+> Make a program that reads any year and shows if it is BISSEX.
 > ```
 
 #### Ex033.py - Maior e menor valores
 
 > ```Português
-> 
+> Faça um programa que leia três números e mostre qual é o MAIOR e qual é o MENOR.
 > ```
 
 > ```Inglês
-> 
+> Make a program that reads three numbers and shows what the BIGGER and which is the SMALLER.
 > ```
 
 #### Ex034.py - Aumentos múltiplos
 
 > ```Português
-> 
+> Escreva um programa que pergunte o salário de um funcionário e calcule o valor do seu aumento. Para salários superiores a R$1.200,00. Calcule um aumento de 10%. Para inferiores ou iguais, o aumento é de 15%.
 > ```
 
 > ```Inglês
-> 
+> Write a program that asks an employee's salary and calculating the value of your increase. For wages over R $ 1,200.00. Calculate a 10% increase. For lower or equal, the increase is 15%.
 > ```
 
 #### Ex035.py - Analisando Triângulo v1.0
 
 > ```Português
-> 
+> Desenvolva um programa que leia o comprimento de três retas e diga ao usuário se elas podem ou não formar um triângulo.
 > ```
 
 > ```Inglês
-> 
+> Develop a program that reads the length of three lines and tell the user whether or not they can form a triangle.
 > ```
 
 #### Ex036.py - Aprovando Empréstimo
