@@ -7,4 +7,3 @@ his successor and his predecessor.
 '''
 n = int(input("Número: "))
 print(f"Seu antecessor: {n - 1}\nSeu sucessor: {n + 1} ")
-
