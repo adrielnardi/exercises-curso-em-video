@@ -14,4 +14,3 @@ print(f"É alfanumérico? {s.isalnum()}")
 print(f"Está em maiúsculo? {s.isupper()}")
 print(f"Está em minúsculo? {s.islower()}")
 print(f"Capitalizado? (nem maiúsculo, nem minúsculo) {s.istitle()}")
-
