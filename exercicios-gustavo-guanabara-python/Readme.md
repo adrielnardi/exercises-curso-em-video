@@ -369,61 +369,89 @@
 #### Ex036.py - Aprovando Empréstimo
 
 > ```Português
-> 
+> Escreva um programa para aprovar o empréstimo bancário para a compra de uma casa. Pergunte o valor da casa, o salário do comprador e em quantos anos ele vai pagar. A prestação mensal, não pode exceder 30% do salário ou então o empréstimo será negado.
 > ```
 
 > ```Inglês
-> 
+> Write a program to approve the bank loan for the buying a house. Ask for the value of the house, the salary of the buyer and how many years he will pay. The monthly installment, cannot exceed 30% of the salary or the loan will be denied.
 > ```
 
 #### Ex037.py - Conversor de bases numéricas
 
 > ```Português
-> 
+> Escreva um programa que leia um número inteiro qualquer e peça para o usuário escolher qual será a base de conversão:
+> -1 para binário
+> -2 para octal
+> -3 para hexadecimal
 > ```
 
 > ```Inglês
-> 
+> Write a program that reads any integer and ask the user to choose the conversion basis:
+> -1 for torque
+> -2 to octal
+> -3 to hexadecimal
 > ```
 
 #### Ex038.py - Comparando números
 
 > ```Português
-> 
+> Escreva um programa que leia dois números inteiros e compare-os mostrando na tela uma mensagem:
+> -O primeiro valor é maior
+> -0 segundo valor é maior
+> -Não existe valor maior, os dois são iguais
 > ```
 
 > ```Inglês
-> 
+> Write a program that reads two integers and compares them showing a message on the screen:
+> -The first value is higher
+> -0 second value is greater
+> -There is no higher value, the two are the same
 > ```
 
 #### Ex039.py - Alistamento Militar
 
 > ```Português
-> 
+> Faça um programa que leia o ano de nascimento de um jovem e informe, de acordo com sua idade, se ele ainda se alistar ao serviço militar, se é a hora de se alistar ou se já passou do tempo do alistamento. Seu programa também deverá mostrar o tempo que falta ou que passou do prazo.
 > ```
 
 > ```Inglês
-> 
+> Make a program that reads the year of birth of a young person and inform, according to your age, if he is still enlisting to military service, whether it's time to enlist or if it's past enlistment time. Your program should also show how much time is left or has passed the deadline.
 > ```
 
 #### Ex040.py - Aquele clássico da Média
 
 > ```Português
-> 
+> Crie um programa que leia duas notas de um aluno e calcule sua média, mostrando uma mensagem no final, de acordo com a média atingida:
+> - Média abaixo de 5.0: REPROVADO
+> - Média entre 5.0 e 6.9: RECUPERAÇÃO
+> - Média 7.0 ou superior: APROVADO
 > ```
 
 > ```Inglês
-> 
+> Create a program that reads a student's two grades and calculates their average, showing a message at the end, according to the average achieved:
+> - Average below 5.0: FAILED
+> - Average between 5.0 and 6.9: RECOVERY
+> - Average 7.0 or higher: APPROVED
 > ```
 
 #### Ex041.py - Classificando Atletas
 
 > ```Português
-> 
+> A confederação nacional de natação precisa de um programa que leia o ano de nascimento de um atleta e mostre sua categoria, de acordo com a idade:
+> -Até 9 anos: MIRIM
+> -Até 14 anos: INFANTIL
+> -Até 19 anos: JUNIOR
+> -Até 25 anos: SÊNIOR
+> -Acima: MASTER
 > ```
 
 > ```Inglês
-> 
+> The national swimming confederation needs a program that read the year of birth of an athlete and show his category, according to age:
+> -Up to 9 years old: MIRIM
+> -Up to 14 years old: CHILD
+> -Up to 19 years old: JUNIOR
+> -Up to 25 years old: SENIOR
+> -Up: MASTER
 > ```
 
 #### Ex042.py -  Analisando Triângulo v2.0
