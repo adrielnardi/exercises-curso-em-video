@@ -8,3 +8,4 @@ your multiplication table on the screen.
 n = int(input("Numero: "))
 for i in range(1,10):
     print(f"{n}x{i}={n*i}")
+    
