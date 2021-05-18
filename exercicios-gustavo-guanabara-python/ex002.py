@@ -7,3 +7,4 @@ a welcome message.
 '''
 nome = input("Nome:")
 print(f'Seja bem vindo {nome} !')
+
