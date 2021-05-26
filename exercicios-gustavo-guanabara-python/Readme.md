@@ -457,21 +457,37 @@
 #### Ex042.py -  Analisando Triângulo v2.0
 
 > ```Português
-> 
+> Refaça o DESAFIO 035 dos triângulos, acrescentando o recurso de mostrar que tipo de triângulo será formado:
+> -Equilátero: todos os lados iguais.
+> -Isósceles: dois lados iguais.
+> -Escaleno: todos os lados diferentes.
 > ```
 
 > ```Inglês
-> 
+> Redo CHALLENGE 035 of the triangles, adding the feature of showing what kind of triangle will be formed:
+> -Equilátero: all sides equal.
+> -Isosceles: two equal sides.
+> -Scalene: all different sides.
 > ```
 
 #### Ex043.py - Índice de massa corporal
 
 > ```Português
-> 
+> Desenvolva uma lógica que leia o peso e a altura de uma pessoa, calcule seu IMC e mostre seu status, de acordo com a tabela abaixo:
+> -Abaixo de 18.5: Abaixo do peso
+> -Entre 18.5 e 25: Peso ideal
+> -25 até 30: Sobrepeso
+> -30 até 40: Obesidade
+> -Acima de 40:Obesidade mórbida
 > ```
 
 > ```Inglês
-> 
+> Develop a logic that reads a person's weight and height, calculate your BMI and show your status, according to the table below:
+> -Under 18.5: Underweight
+> -Between 18.5 and 25: Ideal weight
+> -25 to 30: Overweight
+> -30 to 40: Obesity
+> -Over 40: Morbid obesity
 > ```
 
 #### Ex044.py - Gerenciador de pagamentos
@@ -1194,3 +1210,4 @@
 > 
 > ```
 
+ 
