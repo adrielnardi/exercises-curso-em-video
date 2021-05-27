@@ -129,81 +129,89 @@
 #### Ex044.py - Gerenciador de pagamentos
 
 > ```Português
-> 
+> Elabore um programa que calcule o valor a ser pago por um produto, considerando o seu preço normal e condição de pagamento:
+> -à vista dinheiro/cheque: 10% de desconto
+> -à vista no cartão: 5% de desconto
+> -em até 2x no cartão: preço normal
+> -3x ou mais no cartão: 20% de juros
 > ```
 
 > ```Inglês
-> 
+> Design a program that calculates the amount to be paid for a product, considering its normal price and payment terms:
+> - cash / check: 10% discount
+> - cash on the card: 5% discount
+> - up to 2x on the card: normal price
+> -3x or more on the card: 20% interest
 > ```
 
 #### Ex045.py - GAME: Pedra, Papel e Tesoura
 
 > ```Português
-> 
+> Crie um programa que faça o computador jogar Jokenpô com você.
 > ```
 
 > ```Inglês
-> 
+> Create a program that makes the computer play Jokenpô with you.
 > ```
 
 #### Ex046.py - Contagem Regressiva
 
 > ```Português
-> 
+> Faça um programa que mostre na tela uma contagem regressiva para o estouro de fogos de artifício, indo de 10 até 0, com uma pausa de 1 segundo entre eles.
 > ```
 
 > ```Inglês
-> 
+> Make a program that shows on the screen a countdown to the overflow of fireworks, going from 10 to 0, with a 1 second pause between them.
 > ```
 
 #### Ex047.py - Contagem de pares
 
 > ```Português
-> 
+> Crie um programa que mostre na tela todos os números pares que estão no intervalo entre 1 e 50.
 > ```
 
 > ```Inglês
-> 
+> Create a program that shows on the screen all the even numbers that are in the range between 1 and 50.
 > ```
 
 #### Ex048.py - Soma ímpares múltiplos de três
 
 > ```Português
-> 
+> Faça um programa que calcule a soma entre todos os números ímpares que são múltiplos de três e que se encontram no intervalo de 1 até 500.
 > ```
 
 > ```Inglês
-> 
+> Make a program that calculates the sum between all the odd numbers that are multiples of three and in the range of 1 to 500.
 > ```
 
 #### Ex049.py - Tabuada v2.0
 
 > ```Português
-> 
+> Refaça o EXERCÍCIO 009, mostrando a tabuada de um número que o usuário escolher, só que agora utilizando um laço for.
 > ```
 
 > ```Inglês
-> 
+> Redo EXERCISE 009, showing the multiplication table for a number that the user chooses, only now using a for loo.
 > ```
 
 #### Ex050.py - Soma dos pares
 
 > ```Português
-> 
+> Desenvolva um programa que leia seis números inteiros e mostre a soma apenas daqueles que forem pares. Se o valor digitado for ímpar, desconsidere-o.
 > ```
 
 > ```Inglês
-> 
+> Develop a program that reads six integers and shows the sum only those who are peers. If the value entered is odd, disregard it.
 > ```
 
 #### Ex051.py - Progressão Aritmética
 
 > ```Português
-> 
+> Desenvolva um programa que leia o primeiro termo e a razão de uma PA. No final, mostre os 10 primeiros termos dessa progressão.
 > ```
 
 > ```Inglês
-> 
+> Develop a program that reads the first term and the reason for a PA. At the end, show the first 10 terms of this progression.
 > ```
 
 #### Ex052.py - Números Primos
