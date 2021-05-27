@@ -2,7 +2,11 @@
 
 ## Guia dos exercícios
 
-**Mundo 01** - [link here](https://www.youtube.com/playlist?list=PLHz_AreHm4dlKP6QQCekuIPky1CiwmdI6/?target=_blank)
+**Mundo 01** 
+
+[ex1](https://www.youtube.com/playlist?list=PLHz_AreHm4dlKP6QQCekuIPky1CiwmdI6/ "title" target="_blank")
+
+[ex2](https://github.com/cmatskas" target="_blank)
 
 link: https://www.youtube.com/playlist?list=PLHz_AreHm4dlKP6QQCekuIPky1CiwmdI6
 
