@@ -14,4 +14,4 @@
 
 	Exercícios 72 ao 115
 
-
+Versão: Python3
