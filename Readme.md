@@ -8,6 +8,9 @@
 
 [ex2](https://github.com/cmatskas" target="_blank)
 
+<a href="https://www.youtube.com/playlist?list=PLHz_AreHm4dlKP6QQCekuIPky1CiwmdI6" target="_blank">New Tab</a>
+
+
 link: https://www.youtube.com/playlist?list=PLHz_AreHm4dlKP6QQCekuIPky1CiwmdI6
 
 	Exercícios 01 ao 35
