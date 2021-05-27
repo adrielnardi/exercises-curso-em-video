@@ -6,5 +6,5 @@ Make a program that reads any integer and shows
 your multiplication table on the screen.
 '''
 n = int(input("Numero: "))
-for i in range(1,10):
+for i in range(1,11):
     print(f"{n}x{i}={n*i}")
