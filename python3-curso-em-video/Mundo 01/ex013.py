@@ -6,4 +6,4 @@ Make an algorithm that reads an employee's salary and shows
 his new salary, with a 15% increase.
 '''
 salario = float(input("Salário Atual: R$ "))
-print(f"Aumento de 15%: R${round(salario + (salario * 15/100),2)}")
+print(f"Aumento de 15%: R${salario + (salario * 15/100):.2f}")
