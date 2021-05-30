@@ -11,4 +11,4 @@ per day and R $ 0.15 per km traveled.
 '''
 dias = int(input("Dias alugados? "))
 km = float(input("Km rodados? "))
-print(f"O aluguel do carro custará R$ {round(dias*60 + km*0.15,2)}")
+print(f"O aluguel do carro custará R$ {dias*60 + km*0.15:.2f}")
