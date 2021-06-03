@@ -91,21 +91,21 @@
 #### Ex079.py - Valores únicos em uma Lista
 
 > ```Português
-> 
+> Crie um programa onde o usuário possa digitar vários valores numéricos e cadastre-os em uma lista. Caso o número já exista lá dentro, ele não será adicionado. No final, serão exibidos todos os valores únicos digitados, em ordem crescente.
 > ```
 
 > ```Inglês
-> 
+> Create a program where the user can enter several numeric values and register them in a list. If the number already exists inside it, it will not be added. At the end, all single values entered, in ascending order.
 > ```
 
 #### Ex080.py - LIsta ordenada sem repetições
 
 > ```Português
-> 
+> Crie um programa onde o usuário possa digitar cinco valores numéricos e cadastre-os em uma lista, já na posição correta de inserção (sem usar o sort()). No final, mostre a lista ordenada na tela.
 > ```
 
 > ```Inglês
-> 
+> Create a program where the user can enter five numeric values and register them in a list, already in the correct insertion position (without using sort ()). At the end, show the ordered list on the screen.
 > ```
 
 #### Ex081.py - Extraindo dados de uma Lista
