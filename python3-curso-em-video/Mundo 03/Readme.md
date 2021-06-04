@@ -111,31 +111,37 @@
 #### Ex081.py - Extraindo dados de uma Lista
 
 > ```Português
-> 
+> Crie um programa que vai ler vários números e colocar em uma lista. Depois disso, mostre:
+> A) Quantos números foram digitados.
+> B) A lista de valores, ordenada de forma decrescente.
+> C) Se o valor 5 foi digitado e está ou não na lista.
 > ```
 
 > ```Inglês
-> 
+> Create a program that will read multiple numbers and put them in a list. After that, show:
+> A) How many numbers were entered.
+> B) The list of values, sorted in descending order.
+> C) If the value 5 was entered and you are not in the list.
 > ```
 
 #### Ex082.py - Dividindo valores em várias Listas
 
 > ```Português
-> 
+>  Crie um programa que vai ler vários números e colocar em uma lista. Depois disso, cria duas listas extras que vão conter apenas os valores pares e os valores ímpares digitados, respectivamente. Ao final, mostre o conteúdo das três listas geradas.
 > ```
 
 > ```Inglês
-> 
+> Create a program that will read multiple numbers and put them in a list. After that, create two extra lists that will contain only the typed odd and even values respectively. At the end, show the content of the three lists generated.
 > ```
 
 #### Ex083.py - Validando expressões matemáticas
 
 > ```Português
-> 
+> Crie um programa onde o usuário digite uma expressão qualquer que use parênteses. Seu aplicativo deverá analisar se a expressão passada está com os parênteses abertos e fechados na ordem correta.
 > ```
 
 > ```Inglês
-> 
+> Create a program where the user types any expression that uses parentheses. Your application must analyzed if the expression passed has the parentheses open and closed in the correct order.
 > ```
 
 #### Ex084.py - Lista composta e análise de dados
