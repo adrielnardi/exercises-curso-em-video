@@ -147,31 +147,47 @@
 #### Ex084.py - Lista composta e análise de dados
 
 > ```Português
-> 
+> Faça um programa que leia nome e peso de várias pessoas, guardando tudo em uma lista. No final, mostre:
+> A) Quantas pessoas foram cadastradas.
+> B) Uma listagem com as pessoas mais pesadas.
+> C) Uma listagem com as pessoas mais leves.
 > ```
 
 > ```Inglês
-> 
+> Make a program that reads multiple people's names and weights, keeping everything in a list. At the end, show:
+> A) How many people were registered.
+> B) A listing with the heaviest people.
+> C) A listing with the lighter people.
 > ```
 
 #### Ex085.py - Listas com pares e ímpares
 
 > ```Português
-> 
+> Crie um programa onde o usuário possa digitar sete valores numéricos e cadastre-os em uma lista única que mantenha separados os valores pares e ímpares. No final, mostre os valores pares e ímpares em ordem crescente.
 > ```
 
 > ```Inglês
-> 
+> Create a program where the user can type seven numeric values and enter them in a single list that keeps separate the odd and even values. At the end, show the odd and even values in ascending order.
 > ```
 
 #### Ex086.py - Matriz em python
 
 > ```Português
-> 
+> Crie um programa que crie uma matriz de dimensão 3x3 e preencha com valores lidos pelo teclado.
+> 0 [_][_][_]
+> 1 [_][_][_]
+> 2 [_][_][_]
+>    0  1  2
+> No final, mostre a matriz na tela, com a formatação correta.
 > ```
 
 > ```Inglês
-> 
+> Create a program that creates a 3x3 dimensional matrix and fills it with values read by the keyboard.
+> 0 [_][_][_]
+> 1 [_][_][_]
+> 2 [_][_][_]
+>     0 1 2
+> At the end, show the matrix on the screen, with the correct formatting.
 > ```
 
 #### Ex087.py - Mais sobre matriz em python
