@@ -227,21 +227,21 @@
 #### Ex089.py - Boletim com listas compostas
 
 > ```Português
-> 
+> Crie um programa que leia nome e duas notas de vários alunos e guarde tudo em uma lista composta. No final, mostre um boletim contendo a média de cada um e permita que o usuário possa mostrar as notas de cada aluno individualmente.
 > ```
 
 > ```Inglês
-> 
+> Create a program that reads multiple students' names and two grades and stores them in a composite list. At the end, show a bulletin containing the average of each one and allow the user to show the grades for each individual student.
 > ```
 
 #### Ex090.py - Dicionário em Python
 
 > ```Português
-> 
+> Faça um programa que leia nome e média de um aluno, guardando também a situação em um dicionário. No final, mostre o conteúdo da estrutura na tela.
 > ```
 
 > ```Inglês
-> 
+> Make a program that reads a student's name and average, also saving the situation in a dictionary. At the end, show the content of the structure on the screen.
 > ```
 
 #### Ex091.py - Jogo de dados em Python
