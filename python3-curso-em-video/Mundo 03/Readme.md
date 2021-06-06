@@ -193,21 +193,35 @@
 #### Ex087.py - Mais sobre matriz em python
 
 > ```Português
-> 
+> Aprimore o desafio anterior, mostrando no final:
+> A) A soma de todos os valores pares digitados.
+> B) A soma dos valores da terceira coluna.
+> C) O maior valor da segunda linha.
+> 0 [_][_][_]
+> 1 [_][_][_]
+> 2 [_][_][_]
+>    0  1  2
 > ```
 
 > ```Inglês
-> 
+> Enhance the previous challenge by showing no end:
+> A) The sum of all the even values entered.
+> B) The sum of the values in the third column.
+> C) The highest value in the second row.
+> 0 [_] [_] [_]
+> 1 [_] [_] [_]
+> 2 [_] [_] [_]
+>      0 1 2
 > ```
 
 #### Ex088.py - Palpites para a Mega Sena
 
 > ```Português
-> 
+> Faça um programa que ajude um jogador da MEGA SENA a criar palpites. O programa vai perguntar quantos jogos serão gerados e vai sortear 6 números entre 1 e 60 para cada jogo, cadastrando tudo em uma lista composta.
 > ```
 
 > ```Inglês
-> 
+> Make a program that helps a MEGA SENA player to create guesses. The program will ask how many games will be generated and will draw 6 numbers between 1 and 60 for each game, registering everything in a composite list.
 > ```
 
 #### Ex089.py - Boletim com listas compostas
