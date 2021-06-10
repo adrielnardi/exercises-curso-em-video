@@ -247,11 +247,11 @@
 #### Ex091.py - Jogo de dados em Python
 
 > ```Português
-> 
+> Crie um programa onde 4 jogadores joguem um dado e tenham resultados aleatórios. Guarde esses resultados em um dicionário. No final, colocar esse dicionário em ordem, sabendo que o vencedor tirou o maior número no dado.
 > ```
 
 > ```Inglês
-> 
+> Create a program where 4 players roll a die and have random results. Save these results in a dictionary. In the end, put this dictionary in order, knowing that the winner rolled the highest number on the dice.
 > ```
 
 #### Ex092.py - Cadastro de Trabalhador em Python
@@ -495,3 +495,5 @@
 > ```
 
  
+
+,
