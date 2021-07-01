@@ -257,31 +257,40 @@
 #### Ex092.py - Cadastro de Trabalhador em Python
 
 > ```Português
-> 
+> Crie um programa que leia nome, ano de nascimento e carteira de trabalho e cadastre-os (com idade) em um dicionário. Se por acaso a CTPS for diferente de ZERO, o dicionário receberá também o ano de contratação e o salário. Calcule e acrescente, além da idade, com quantos anos a pessoa vai se aposentar.
 > ```
 
 > ```Inglês
-> 
+> Create a program that reads name, year of birth and work card and record (with age) in a dictionary. If by chance a CTPS is different from ZERO, the dictionary will also receive the year of employment and salary. Calculate and add, in addition to age, how old the person will retire at.
 > ```
 
 #### Ex093.py - Cadastro de jogador de futebol
 
 > ```Português
-> 
+> Crie um programa que gerencie o aproveitamento de um jogador de futebol. O programa vai ler o nome do jogador e quantas partidas ele jogou. Depois vai ler a quantidade de gols feitos em cada partida. No final, tudo isso será guardado em um dicionário, incluindo o total de gols feitos durante o campeonato.
 > ```
 
 > ```Inglês
-> 
+> Create a program that manages a football player's performance. The program will read the player name and how many games he played. Then it will read the number of goals scored in each match. In the end, all this will be saved in a dictionary, including the total goals scored during the championship.
 > ```
 
 #### Ex094.py - Unindo dicionários a listas
 
 > ```Português
-> 
+> Crie um programa que leia nome, sexo e idade de várias pessoas, guardando os dados de
+> cada pessoa em um dicionário e todos os dicionários em uma lista. No final, mostre:
+> A) Quantas pessoas cadastradas.
+> B) A média de idade.
+> C) Uma lista com mulheres.
+> D) Uma lista com idade acima da média.
 > ```
 
 > ```Inglês
-> 
+> Create a program that reads the name, sex and age of several people, saving the data of each person in a dictionary and all dictionaries in a list. At the end, show:
+> A) How many people registered.
+> B) The average age.
+> C) A list of women.
+> D) An above-average age list.
 > ```
 
 #### Ex095.py - Aprimorando os dicionários
