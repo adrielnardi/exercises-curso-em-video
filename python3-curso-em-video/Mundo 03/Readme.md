@@ -277,8 +277,7 @@
 #### Ex094.py - Unindo dicionários a listas
 
 > ```Português
-> Crie um programa que leia nome, sexo e idade de várias pessoas, guardando os dados de
-> cada pessoa em um dicionário e todos os dicionários em uma lista. No final, mostre:
+> Crie um programa que leia nome, sexo e idade de várias pessoas, guardando os dados de cada pessoa em um dicionário e todos os dicionários em uma lista. No final, mostre:
 > A) Quantas pessoas cadastradas.
 > B) A média de idade.
 > C) Uma lista com mulheres.
@@ -296,21 +295,21 @@
 #### Ex095.py - Aprimorando os dicionários
 
 > ```Português
-> 
+> Aprimore o DESAFIO 093 para que ele funcione com vários jogadores, incluindo um sistema de visualização de detalhes do aproveitamento de cada jogador.
 > ```
 
 > ```Inglês
-> 
+> Upgrade CHALLENGE 093 to work with multiple players, including a system for viewing the details of each player's achievements.
 > ```
 
 #### Ex096.py - Função que calcula a área
 
 > ```Português
-> 
+> Faça um programa que tenha uma função chamada area(), que receba as dimensões de um terreno retangular(largura e comprimento) e mostre a área do terreno.
 > ```
 
 > ```Inglês
-> 
+> Write a program that has a function called area(), which receives the dimensions of a rectangular terrain (width and length) and show the terrain area.
 > ```
 
 #### Ex097.py - Um print especial
