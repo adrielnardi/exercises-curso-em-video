@@ -315,11 +315,11 @@
 #### Ex097.py - Um print especial
 
 > ```Português
-> 
+> Faça um programa que tenha uma função chamada escreva(), que receba um texto qualquer como parâmetro e mostre uma mensagem com tamanho adaptável.
 > ```
 
 > ```Inglês
-> 
+> Make a program that has a function called write() that receives any text as a parameter and display a message with adaptable size.
 > ```
 
 #### Ex098.py - Função de contador
