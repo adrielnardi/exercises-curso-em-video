@@ -325,11 +325,19 @@
 #### Ex098.py - Função de contador
 
 > ```Português
-> 
+> Faça um programa que tenha uma função chamada contador(), que receba três parâmetros:
+> início, fim e passo. seu programa tem que realizar três contagens através da função criada:
+> a) De 1 até 10, de 1 em 1
+> b) De 10 até 0, de 2 em 2
+> c) uma contagem personalizada
 > ```
 
 > ```Inglês
-> 
+> Write a program that has a function called counter(), which takes three parameters:
+> beginning, end and step. your program has to perform three counts through the created function:
+> a) From 1 to 10, from 1 to 1
+> b) From 10 to 0, every 2
+> c) a custom score
 > ```
 
 #### Ex099.py - Função que descobre o maior
