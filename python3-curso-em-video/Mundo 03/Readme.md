@@ -343,11 +343,13 @@
 #### Ex099.py - Função que descobre o maior
 
 > ```Português
-> 
+> Faça um programa que tenha uma função chamada maior(), que receba vários parãmetros
+> com valores inteiros. Seu programa tem que analisar todos os valores e dizer qual deles é o maior.
 > ```
 
 > ```Inglês
-> 
+> Make a program that has a function called larger(), which takes several parameters
+> with integer values. Your program has to analyze all the values and say which one is the biggest.
 > ```
 
 #### Ex100.py - Funções para sortear e somar
