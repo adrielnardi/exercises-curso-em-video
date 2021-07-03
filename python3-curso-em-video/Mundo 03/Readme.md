@@ -355,11 +355,11 @@
 #### Ex100.py - Funções para sortear e somar
 
 > ```Português
-> 
+> Faça um programa que tenha uma lista chamada números e duas funções chamadas sorteia() e somapar(). A primeira função vai sortear 5 números e vai colocá-los dentro da lista e a segunda função vai mostrar a soma entre todos os valores PARES sorteados pela função anterior.
 > ```
 
 > ```Inglês
-> 
+> Make a program that has a list called numbers and two functions called draw() and sum(). The first function will draw 5 numbers and place them inside of the list and the second function will show the sum between all the PAIR values drawn by the previous function.
 > ```
 
 #### Ex101.py - Funções para votação
