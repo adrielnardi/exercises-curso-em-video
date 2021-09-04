@@ -9,3 +9,6 @@ all = lower + upper + numbers + symbols
 length = 10
 password = "".join(random.sample(all,length))
 print(password)
+
+#Output
+#Ex: 0Pk6c*YeZj
