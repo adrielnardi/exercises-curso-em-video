@@ -10,3 +10,7 @@ for val in range(2,n+1):
     if(primo(val)):
         lista.append(val)
 print(lista)
+
+#Output
+#[IN]: EXibir primos até o número: 10 
+#[2, 3, 5, 7]
