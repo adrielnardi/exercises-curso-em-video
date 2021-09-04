@@ -11,6 +11,7 @@ for val in range(2,n+1):
         lista.append(val)
 print(lista)
 
-#Output
+#output
+
 #[IN]: EXibir primos até o número: 10 
 #[2, 3, 5, 7]
