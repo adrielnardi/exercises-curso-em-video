@@ -10,5 +10,7 @@ length = 10
 password = "".join(random.sample(all,length))
 print(password)
 
-#Output
+#output
+
 #Ex: 0Pk6c*YeZj
+#P.S. The password generator is random
