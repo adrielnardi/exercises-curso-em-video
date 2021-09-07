@@ -1,7 +1,5 @@
 # Python 3 - Curso em Vídeo
-Este repositório possui a correção dos exercícios do canal Curso em Vídeo.
-
-This repository has a correction of the exercises in the Curso em Vídeo channel.
+Este repositório possui a correção dos exercícios do canal Curso em Vídeo. / This repository has a correction of the exercises in the Curso em Vídeo channel.
 
 ## Guia dos exercícios / Exercise Guide
 
