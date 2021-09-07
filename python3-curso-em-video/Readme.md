@@ -1,4 +1,4 @@
-# Curso de Python 3 - Curso em Vídeo / Python 3 Course - Video Course
+# Python 3 - Curso em Vídeo
 Este repositório possui a correção dos exercícios do canal Curso em Vídeo.
 
 This repository has a correction of the exercises in the Curso em Vídeo channel.
