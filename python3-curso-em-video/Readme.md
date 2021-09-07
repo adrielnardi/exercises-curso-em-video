@@ -15,4 +15,4 @@ Este repositório possui a correção dos exercícios do canal Curso em Vídeo. 
 
 	Exercícios 72 ao 115 / Exercises 72 to 115
 
-Versão: Python3
+Versão: Python3 / Version: Python3
