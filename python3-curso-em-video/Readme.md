@@ -1,8 +1,8 @@
 # Python 3 - Curso em Vídeo
 This repository has a correction of the exercises in the Curso em Vídeo channel.
 
-<h1 align="center">
-  <a href="https://www.youtube.com/user/cursosemvideo">
+<h1 align="left">
+  <a href="https://www.youtube.com/user/cursosemvideo" target="_blank">
     <img src="img/curso_em_video.jpg" width="200px" />
     <img src="img/python.png" width="80px" />
   </a>
