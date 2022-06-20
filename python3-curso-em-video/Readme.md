@@ -2,10 +2,8 @@
 This repository has a correction of the exercises in the Curso em Vídeo channel.
 
 <h1 align="left">
-  <a href="https://www.youtube.com/user/cursosemvideo" target="_blank" rel="noopener noreferrer">
-    <img src="img/curso_em_video.jpg" width="200px" />
-    <img src="img/python.png" width="80px" />
-  </a>
+   <img src="img/python.png" width="80px" />
+   <img src="img/curso_em_video.jpg" width="200px" />
 </h1>
 
 
