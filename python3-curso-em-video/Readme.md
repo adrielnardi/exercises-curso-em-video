@@ -1,6 +1,14 @@
 # Python 3 - Curso em Vídeo
 This repository has a correction of the exercises in the Curso em Vídeo channel.
 
+<h1 align="center">
+  <a href="https://www.youtube.com/user/cursosemvideo">
+    <img src="img/curso_em_video.jpg" width="200px" />
+    <img src="img/python.png" width="80px" />
+  </a>
+</h1>
+
+
 ## Exercise Guide
 
 **World 01** - Fundamentals: Course videos [here](https://www.youtube.com/playlist?list=PLHz_AreHm4dlKP6QQCekuIPky1CiwmdI6).
